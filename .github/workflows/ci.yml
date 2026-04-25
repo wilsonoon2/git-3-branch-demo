@@ -26,4 +26,5 @@ jobs:
       - name: Run tests
         run: |
           echo "Run your tests here"
+          pytest -v
 
